@@ -1,5 +1,5 @@
 # JENUSA
-This is a static website made with used cooking oil theme.
+This is a static website design made with used cooking oil theme.
 
 Dibuat dengan :
 
